@@ -222,4 +222,6 @@
 - Bio: computer science student having aspiration in frontend web development.
 -Programming Language: Javascript
 
-
+#### Name: [Shantanu Bhardwaj](https://github.com/shantanub007)
+- Bio: Pythonista
+- Programming Language: Python
